@@ -1,37 +1,3 @@
-fraud-risk-analytics-stratazeal/
-│
-├── README.md
-├── LICENSE
-├── requirements.txt
-│
-├── data/
-│   ├── raw_transactions.csv
-│   └── processed_transactions.csv
-│
-├── notebooks/
-│   └── fraud_analysis.ipynb
-│
-├── src/
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   └── fraud_risk_scoring.py
-│
-├── results/
-│   ├── charts
-│   │   ├── fraud_by_channel.png
-│   │   ├── fraud_time_pattern.png
-│   │   └── correlation_matrix.png
-│   └── reports
-│       └── analysis_summary.pdf
-│
-├── presentation/
-│   └── Stratazeal_Case_Presentation.pdf
-│
-└── docs/
-    └── methodology.md
-
-
-
 # Fraud Risk Analytics Framework
 ### Stratazeal 2.0 – Round 2 Case Submission
 
