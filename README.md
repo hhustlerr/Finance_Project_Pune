@@ -1,5 +1,4 @@
 # Fraud Risk Analytics Framework
-### Stratazeal 2.0 – Round 2 Case Submission
 
 Author: Prachi Mittal  
 Track: Business Analytics  
@@ -193,5 +192,3 @@ https://colab.research.google.com/drive/1IptW8w5gev6bkI117MlmkaW0bFDsg2ex
 ## Author
 
 Prachi Mittal  
-Business Analytics Track  
-Stratazeal 2.0 Case Quest
